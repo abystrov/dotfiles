@@ -1,0 +1,16 @@
+syntax on
+set nu
+
+
+"Search"
+set hlsearch
+set ignorecase
+set incsearch
+
+"UI"
+set ruler
+set background=dark
+set title
+set noerrorbells
+set mouse=a
+set visualbell
