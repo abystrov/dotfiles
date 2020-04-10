@@ -12,5 +12,4 @@ set ruler
 set background=dark
 set title
 set noerrorbells
-set mouse=a
 set visualbell
